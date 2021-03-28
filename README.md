@@ -9,7 +9,7 @@ morkborg-foundry-3p is an independent production by community contributors, and 
 
 ## Credits
   * **MÖRK BORG** is copyright Ockult Örtmästare Games and Stockholm Kartell.
-  * **Blighted Merman** by [Chalkdown](https://chalkdown.itch.io/) and Djunn.
+  * **Blighted Merman** by [Chalkdown and Djuun](https://chalkdown.itch.io/).
 
 ## License
   * Content: [MÖRK BORG Third Party License](https://morkborg.com/license/)
