@@ -7,20 +7,24 @@
   "manifestPlusVersion": "1.0.0",
   "minimumCoreVersion": "0.7.9",
   "compatibleCoreVersion": "0.7.9",
-  "authors": [
-    {
-      "name": "mcglintlock",
-      "discord": "mcglintlock#3436"
-    }
-  ],
+  "author": "mcglintlock",
   "dependencies": [
-
-  ],
-  "conflicts": [
-    
+    {
+      "name": "morkborg",
+      "type": "system"
+    }
   ],
   "esmodules": [
     "/scripts/module.js"
+  ],
+  "packs": [
+    {
+      "name": "class-blighted-merman",
+      "entity": "Item",
+      "label": "Class - Blighted Merman",
+      "path": "./packs/class-blighted-merman.db",
+      "system": "morkborg"
+    }
   ],
   "scripts": [
     "/scripts/lib/lib.js"
