@@ -20,10 +20,17 @@
   "packs": [
     {
       "name": "class-blighted-merman",
-      "entity": "Item",
       "label": "Class - Blighted Merman",
+      "system": "morkborg",
       "path": "./packs/class-blighted-merman.db",
-      "system": "morkborg"
+      "entity": "Item"
+    },
+    {
+      "name": "eldritch-elevations",
+      "label": "Eldritch Elevations",
+      "system": "morkborg",
+      "path": "./packs/eldritch-elevations.db",
+      "entity": "RollTable"
     }
   ],
   "scripts": [
