@@ -31,6 +31,13 @@
       "system": "morkborg",
       "path": "./packs/eldritch-elevations.db",
       "entity": "RollTable"
+    },
+    {
+      "name": "class-fugitive-knight",
+      "label": "Class - Fugitive Knight",
+      "system": "morkborg",
+      "path": "./packs/class-fugitive-knight.db",
+      "entity": "Item"
     }
   ],
   "scripts": [
