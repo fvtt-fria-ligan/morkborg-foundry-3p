@@ -1,3 +1,6 @@
+# 0.1.2
+- Added Fugitive Knight by Michal Gotkowski.
+
 # 0.1.1
 - Added Eldritch Elevations by Michael Mars.
 
