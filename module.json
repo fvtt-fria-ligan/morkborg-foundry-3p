@@ -26,6 +26,13 @@
       "entity": "Item"
     },
     {
+      "name": "class-cursed-skinwalker",
+      "label": "Class - Cursed Skinwalker",
+      "system": "morkborg",
+      "path": "./packs/class-cursed-skinwalker.db",
+      "entity": "Item"
+    },
+    {
       "name": "eldritch-elevations",
       "label": "Eldritch Elevations",
       "system": "morkborg",
@@ -37,6 +44,13 @@
       "label": "Class - Fugitive Knight",
       "system": "morkborg",
       "path": "./packs/class-fugitive-knight.db",
+      "entity": "Item"
+    },
+    {
+      "name": "class-sagrilegious-songbird",
+      "label": "Class - Sacrilegious Songbird",
+      "system": "morkborg",
+      "path": "./packs/class-sacrilegious-songbird.db",
       "entity": "Item"
     }
   ],
