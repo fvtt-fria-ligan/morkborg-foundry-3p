@@ -52,6 +52,13 @@
       "system": "morkborg",
       "path": "./packs/class-sacrilegious-songbird.db",
       "entity": "Item"
+    },
+    {
+      "name": "unheroic-feats",
+      "label": "Unheroic Feats",
+      "system": "morkborg",
+      "path": "./packs/unheroic-feats.db",
+      "entity": "Item"
     }
   ],
   "scripts": [
