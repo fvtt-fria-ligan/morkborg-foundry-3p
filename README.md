@@ -9,12 +9,19 @@ morkborg-foundry-3p is an independent production by community contributors, and 
 
 ## Credits
   * [MÖRK BORG](https://www.morkborg.com) is copyright Ockult Örtmästare Games and Stockholm Kartell.
+
+### Classes
   * [Blighted Merman](https://chalkdown.itch.io/blighted-merman) by [Chalkdown & Djuun](https://chalkdown.itch.io/).
-  * [Eldritch Elevations](https://www.drivethrurpg.com/product/342353/Eldritch-Elevations-A-Table-for-Mork-Borg) by [Michael Mars](https://www.drivethrurpg.com/browse/pub/18364/Michael-Mars).
+  * [Cursed Skinwalker](https://makedatanotlore.itch.io/cursed-skinwalker) by [Karl Druid](https://makedatanotlore.itch.io/). 
+  * [Dead God's Prophet](https://drive.google.com/file/d/1NlxdeWP5p--1jw_4pueDO0rAy721mMJ_/view) by [Greg Saunders](https://firerubydesigns.co.uk/home?i=1).
   * [Fugitive Knight](https://neonon.itch.io/mork-borg-fugitive-knight) by [Michal Gotkowski](https://neonon.itch.io/).
   * [Sacrilegious Songbird](https://makedatanotlore.itch.io/sacrilegious-songbird) by [Karl Druid](https://makedatanotlore.itch.io/).
-  * [Cursed Skinwalker](https://makedatanotlore.itch.io/cursed-skinwalker) by [Karl Druid](https://makedatanotlore.itch.io/). 
+
+### Feats
   * [Unheroic Feats](https://drive.google.com/file/d/1A4dl3yRXt19Am0ZV5tPyqjfnkJR0R5f8/view) by [Johnny Carhat](https://metalskull-games.itch.io/).
+
+### Rolltables
+  * [Eldritch Elevations](https://www.drivethrurpg.com/product/342353/Eldritch-Elevations-A-Table-for-Mork-Borg) by [Michael Mars](https://www.drivethrurpg.com/browse/pub/18364/Michael-Mars).
 
 ## License
   * Content: [MÖRK BORG Third Party License](https://morkborg.com/license/)
