@@ -10,6 +10,9 @@ morkborg-foundry-3p is an independent production by community contributors, and 
 ## Credits
   * [MÖRK BORG](https://www.morkborg.com) is copyright Ockult Örtmästare Games and Stockholm Kartell.
 
+### Art
+  * MBC class tokens made with art by [Johan Nohr](https://twitter.com/JohanNohr), and used with permission of the artist.
+
 ### Classes
   * [Blighted Merman](https://chalkdown.itch.io/blighted-merman) by [Chalkdown & Djuun](https://chalkdown.itch.io/).
   * [Cursed Skinwalker](https://makedatanotlore.itch.io/cursed-skinwalker) by [Karl Druid](https://makedatanotlore.itch.io/). 
