@@ -4,6 +4,7 @@
 - Added Unheroic Feats by Johnny Carhat.
 - Added Pale One by Tim Rudloff.
 - Added Dead God's Prophet by Greg Saunders.
+- Add MBC class tokens with art by Johan Nohr.
 
 # 0.1.2
 - Added Fugitive Knight by Michal Gotkowski.
