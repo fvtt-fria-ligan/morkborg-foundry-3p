@@ -33,6 +33,13 @@
       "entity": "Item"
     },
     {
+      "name": "class-dead-gods-prophet",
+      "label": "Class - Dead God's Prophet",
+      "system": "morkborg",
+      "path": "./packs/class-dead-gods-prophet.db",
+      "entity": "Item"
+    },
+    {
       "name": "eldritch-elevations",
       "label": "Eldritch Elevations",
       "system": "morkborg",
