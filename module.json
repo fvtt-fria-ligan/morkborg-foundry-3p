@@ -47,6 +47,13 @@
       "entity": "Item"
     },
     {
+      "name": "class-pale-one",
+      "label": "Class - Pale One",
+      "system": "morkborg",
+      "path": "./packs/class-pale-one.db",
+      "entity": "Item"
+    },
+    {
       "name": "class-sagrilegious-songbird",
       "label": "Class - Sacrilegious Songbird",
       "system": "morkborg",
