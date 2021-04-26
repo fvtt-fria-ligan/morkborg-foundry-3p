@@ -82,6 +82,13 @@
       "entity": "RollTable"
     },
     {
+      "name": "rolls-pale-one",
+      "label": "Rolls - Pale One",
+      "system": "morkborg",
+      "path": "./packs/rolls-pale-one.db",
+      "entity": "RollTable"
+    },    
+    {
       "name": "unheroic-feats",
       "label": "Unheroic Feats",
       "system": "morkborg",
