@@ -73,7 +73,14 @@
       "system": "morkborg",
       "path": "./packs/rolls-blighted-merman.db",
       "entity": "RollTable"
-    },    
+    },
+    {
+      "name": "rolls-cursed-skinwalker",
+      "label": "Rolls - Cursed Skinwalker",
+      "system": "morkborg",
+      "path": "./packs/rolls-cursed-skinwalker.db",
+      "entity": "RollTable"
+    },
     {
       "name": "unheroic-feats",
       "label": "Unheroic Feats",
