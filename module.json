@@ -82,6 +82,13 @@
       "entity": "RollTable"
     },
     {
+      "name": "rolls-dead-gods-prophet",
+      "label": "Rolls - Dead God's Prophet",
+      "system": "morkborg",
+      "path": "./packs/rolls-dead-gods-prophet.db",
+      "entity": "RollTable"
+    },    
+    {
       "name": "rolls-pale-one",
       "label": "Rolls - Pale One",
       "system": "morkborg",
