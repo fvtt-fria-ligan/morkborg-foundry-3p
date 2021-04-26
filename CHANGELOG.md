@@ -1,3 +1,6 @@
+# 0.2.0
+- Updated all classes to be compatible with Scvmfactory character generation.
+
 # 0.1.3
 - Added Sacrilegious Songbird by Karl Druid.
 - Added Cursed Skinwalker by Karl Druid.
