@@ -87,14 +87,28 @@
       "system": "morkborg",
       "path": "./packs/rolls-dead-gods-prophet.db",
       "entity": "RollTable"
-    },    
+    },
+    {
+      "name": "rolls-fugitive-knight",
+      "label": "Rolls - Fugitive Knight",
+      "system": "morkborg",
+      "path": "./packs/rolls-fugitive-knight.db",
+      "entity": "RollTable"
+    },
     {
       "name": "rolls-pale-one",
       "label": "Rolls - Pale One",
       "system": "morkborg",
       "path": "./packs/rolls-pale-one.db",
       "entity": "RollTable"
-    },    
+    },
+    {
+      "name": "rolls-sacrilegious-songbird",
+      "label": "Rolls - Sacrilegious Songbird",
+      "system": "morkborg",
+      "path": "./packs/rolls-sacrilegious-songbird.db",
+      "entity": "RollTable"
+    },
     {
       "name": "unheroic-feats",
       "label": "Unheroic Feats",
