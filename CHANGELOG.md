@@ -1,3 +1,6 @@
+# 0.2.1
+- Fix songbird pack name typo.
+
 # 0.2.0
 - Updated all classes to be compatible with Scvmfactory character generation.
 
