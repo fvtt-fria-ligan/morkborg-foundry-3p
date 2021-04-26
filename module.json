@@ -68,6 +68,13 @@
       "entity": "Item"
     },
     {
+      "name": "rolls-blighted-merman",
+      "label": "Rolls - Blighted Merman",
+      "system": "morkborg",
+      "path": "./packs/rolls-blighted-merman.db",
+      "entity": "RollTable"
+    },    
+    {
       "name": "unheroic-feats",
       "label": "Unheroic Feats",
       "system": "morkborg",
