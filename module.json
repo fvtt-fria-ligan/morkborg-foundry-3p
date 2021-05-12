@@ -19,6 +19,13 @@
   ],
   "packs": [
     {
+      "name": "actors-damned-blade-thrall",
+      "label": "Actors - Damned Blade-Thrall",
+      "system": "morkborg",
+      "path": "./packs/actors-damned-blade-thrall.db",
+      "entity": "Actor"
+    },
+    {
       "name": "class-blighted-merman",
       "label": "Class - Blighted Merman",
       "system": "morkborg",
@@ -30,6 +37,13 @@
       "label": "Class - Cursed Skinwalker",
       "system": "morkborg",
       "path": "./packs/class-cursed-skinwalker.db",
+      "entity": "Item"
+    },
+    {
+      "name": "class-damned-blade-thrall",
+      "label": "Class - Damned Blade-Thrall",
+      "system": "morkborg",
+      "path": "./packs/class-damned-blade-thrall.db",
       "entity": "Item"
     },
     {
@@ -81,6 +95,13 @@
       "path": "./packs/rolls-cursed-skinwalker.db",
       "entity": "RollTable"
     },
+    {
+      "name": "rolls-damned-blade-thrall",
+      "label": "Rolls - Damned Blade-Thrall",
+      "system": "morkborg",
+      "path": "./packs/rolls-damned-blade-thrall.db",
+      "entity": "RollTable"
+    },    
     {
       "name": "rolls-dead-gods-prophet",
       "label": "Rolls - Dead God's Prophet",
