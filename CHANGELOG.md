@@ -1,3 +1,6 @@
+# 0.2.2
+- Added Damned Blade-Thrall by Nathan Harrison.
+
 # 0.2.1
 - Fix songbird pack name typo.
 
