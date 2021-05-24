@@ -1,3 +1,6 @@
+# 0.2.3
+- Mark compatibility with Foundry 0.8.5. 
+ 
 # 0.2.2
 - Added Damned Blade-Thrall by Nathan Harrison.
 
