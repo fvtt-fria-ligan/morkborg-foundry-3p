@@ -1,3 +1,6 @@
+# 0.2.4
+- Mark compatibility with Foundry 0.8.6.
+
 # 0.2.3
 - Mark compatibility with Foundry 0.8.5. 
  
