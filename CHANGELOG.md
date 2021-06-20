@@ -1,14 +1,17 @@
+# 0.2.5
+- Marked compatibility with Foundry 0.8.7.
+
 # 0.2.4
-- Mark compatibility with Foundry 0.8.6.
+- Marked compatibility with Foundry 0.8.6.
 
 # 0.2.3
-- Mark compatibility with Foundry 0.8.5. 
+- Marked compatibility with Foundry 0.8.5. 
  
 # 0.2.2
 - Added Damned Blade-Thrall by Nathan Harrison.
 
 # 0.2.1
-- Fix songbird pack name typo.
+- Fixed songbird pack name typo.
 
 # 0.2.0
 - Updated all classes to be compatible with Scvmfactory character generation.
@@ -19,7 +22,7 @@
 - Added Unheroic Feats by Johnny Carhat.
 - Added Pale One by Tim Rudloff.
 - Added Dead God's Prophet by Greg Saunders.
-- Add MBC class tokens with art by Johan Nohr.
+- Added MBC class tokens with art by Johan Nohr.
 
 # 0.1.2
 - Added Fugitive Knight by Michal Gotkowski.
