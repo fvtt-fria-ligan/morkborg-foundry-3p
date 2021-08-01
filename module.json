@@ -33,6 +33,13 @@
       "entity": "Item"
     },
     {
+      "name": "class-catacomb-saint",
+      "label": "Class - Catacomb Saint",
+      "system": "morkborg",
+      "path": "./packs/class-catacomb-saint.db",
+      "entity": "Item"
+    },
+    {
       "name": "class-cursed-skinwalker",
       "label": "Class - Cursed Skinwalker",
       "system": "morkborg",
@@ -88,6 +95,13 @@
       "path": "./packs/rolls-blighted-merman.db",
       "entity": "RollTable"
     },
+    {
+      "name": "rolls-catacomb-saint",
+      "label": "Rolls - Catacomb Saint",
+      "system": "morkborg",
+      "path": "./packs/rolls-catacomb-saint.db",
+      "entity": "RollTable"
+    },    
     {
       "name": "rolls-cursed-skinwalker",
       "label": "Rolls - Cursed Skinwalker",

@@ -16,6 +16,7 @@ morkborg-foundry-3p is an independent production by community contributors, and 
 
 ### Classes
   * [Blighted Merman](https://chalkdown.itch.io/blighted-merman) by [Chalkdown & Djuun](https://chalkdown.itch.io/).
+  * [Catacomb Saint](https://imcclung.itch.io/catacomb-saint) by [Makooti](https://imcclung.itch.io/).
   * [Cursed Skinwalker](https://makedatanotlore.itch.io/cursed-skinwalker) by [Karl Druid](https://makedatanotlore.itch.io/). 
   * [Damned Blade-Thrall](https://nthdegree.itch.io/damned-blade-thrall-a-class-for-mork-borg) by Nathan Harrison / [Orbis Tertius Press](https://orbis-tertius.org/).
   * [Dead God's Prophet](https://drive.google.com/file/d/1NlxdeWP5p--1jw_4pueDO0rAy721mMJ_/view) by [Greg Saunders](https://firerubydesigns.co.uk/home?i=1).
