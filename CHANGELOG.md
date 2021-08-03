@@ -1,3 +1,9 @@
+# 0.2.7
+- Added missing Catacomb Saint token image.
+
+# 0.2.6
+- Added Catacomb Saint class by Makooti.
+
 # 0.2.5
 - Marked compatibility with Foundry 0.8.7.
 
