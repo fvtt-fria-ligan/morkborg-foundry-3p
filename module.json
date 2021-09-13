@@ -6,7 +6,7 @@
   "library": "false",
   "manifestPlusVersion": "1.0.0",
   "minimumCoreVersion": "0.7.9",
-  "compatibleCoreVersion": "0.8.7",
+  "compatibleCoreVersion": "0.8.9",
   "author": "mcglintlock",
   "dependencies": [
     {
@@ -23,6 +23,13 @@
       "label": "Actors - Damned Blade-Thrall",
       "system": "morkborg",
       "path": "./packs/actors-damned-blade-thrall.db",
+      "entity": "Actor"
+    },
+    {
+      "name": "actors-forlorn-philoshoper",
+      "label": "Actors - Forlorn Philosopher",
+      "system": "morkborg",
+      "path": "./packs/actors-forlorn-philosopher.db",
       "entity": "Actor"
     },
     {
@@ -61,11 +68,11 @@
       "entity": "Item"
     },
     {
-      "name": "eldritch-elevations",
-      "label": "Eldritch Elevations",
+      "name": "class-forlorn-philosopher",
+      "label": "Class - Forlorn Philosopher",
       "system": "morkborg",
-      "path": "./packs/eldritch-elevations.db",
-      "entity": "RollTable"
+      "path": "./packs/class-forlorn-philosopher.db",
+      "entity": "Item"
     },
     {
       "name": "class-fugitive-knight",
@@ -87,6 +94,13 @@
       "system": "morkborg",
       "path": "./packs/class-sacrilegious-songbird.db",
       "entity": "Item"
+    },
+    {
+      "name": "eldritch-elevations",
+      "label": "Eldritch Elevations",
+      "system": "morkborg",
+      "path": "./packs/eldritch-elevations.db",
+      "entity": "RollTable"
     },
     {
       "name": "rolls-blighted-merman",
@@ -121,6 +135,13 @@
       "label": "Rolls - Dead God's Prophet",
       "system": "morkborg",
       "path": "./packs/rolls-dead-gods-prophet.db",
+      "entity": "RollTable"
+    },
+    {
+      "name": "rolls-forlorn-philosopher",
+      "label": "Rolls - Forlorn Philosopher",
+      "system": "morkborg",
+      "path": "./packs/rolls-forlorn-philosopher.db",
       "entity": "RollTable"
     },
     {

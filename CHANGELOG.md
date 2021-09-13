@@ -1,3 +1,7 @@
+# 0.2.8
+- Added Forlorn Philosopher class, along with the Tablets of Ochre Obscurity.
+- Fixed typo in Pale one.
+
 # 0.2.7
 - Added missing Catacomb Saint token image.
 
