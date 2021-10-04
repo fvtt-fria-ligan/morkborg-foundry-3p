@@ -33,6 +33,13 @@
       "entity": "Actor"
     },
     {
+      "name": "class-betrayed-phantom",
+      "label": "Class - Betrayed Phantom",
+      "system": "morkborg",
+      "path": "./packs/class-betrayed-phantom.db",
+      "entity": "Item"
+    },    
+    {
       "name": "class-blighted-merman",
       "label": "Class - Blighted Merman",
       "system": "morkborg",
@@ -68,6 +75,13 @@
       "entity": "Item"
     },
     {
+      "name": "class-divine-hag",
+      "label": "Class - Divine Hag",
+      "system": "morkborg",
+      "path": "./packs/class-divine-hag.db",
+      "entity": "Item"
+    },    
+    {
       "name": "class-forlorn-philosopher",
       "label": "Class - Forlorn Philosopher",
       "system": "morkborg",
@@ -96,10 +110,24 @@
       "entity": "Item"
     },
     {
+      "name": "class-slapping-bastard",
+      "label": "Class - Slapping Bastard",
+      "system": "morkborg",
+      "path": "./packs/class-slapping-bastard.db",
+      "entity": "Item"
+    },    
+    {
       "name": "eldritch-elevations",
       "label": "Eldritch Elevations",
       "system": "morkborg",
       "path": "./packs/eldritch-elevations.db",
+      "entity": "RollTable"
+    },
+    {
+      "name": "rolls-betrayed-phantom",
+      "label": "Rolls - Betrayed Phantom",
+      "system": "morkborg",
+      "path": "./packs/rolls-betrayed-phantom.db",
       "entity": "RollTable"
     },
     {
@@ -138,6 +166,13 @@
       "entity": "RollTable"
     },
     {
+      "name": "rolls-divine-hag",
+      "label": "Rolls - Divine Hag",
+      "system": "morkborg",
+      "path": "./packs/rolls-divine-hag.db",
+      "entity": "RollTable"
+    },    
+    {
       "name": "rolls-forlorn-philosopher",
       "label": "Rolls - Forlorn Philosopher",
       "system": "morkborg",
@@ -165,6 +200,13 @@
       "path": "./packs/rolls-sacrilegious-songbird.db",
       "entity": "RollTable"
     },
+    {
+      "name": "rolls-slapping-bastard",
+      "label": "Rolls - Slapping Bastard",
+      "system": "morkborg",
+      "path": "./packs/rolls-slapping-bastard.db",
+      "entity": "RollTable"
+    },    
     {
       "name": "unheroic-feats",
       "label": "Unheroic Feats",
