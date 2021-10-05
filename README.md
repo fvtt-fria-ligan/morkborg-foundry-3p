@@ -22,6 +22,7 @@ morkborg-foundry-3p is an independent production by community contributors, and 
   * [Damned Blade-Thrall](https://nthdegree.itch.io/damned-blade-thrall-a-class-for-mork-borg) by Nathan Harrison / [Orbis Tertius Press](https://orbis-tertius.org/).
   * [Dead God's Prophet](https://drive.google.com/file/d/1NlxdeWP5p--1jw_4pueDO0rAy721mMJ_/view) by [Greg Saunders](https://firerubydesigns.co.uk/home?i=1).
   * [Divine Hag](https://www.drivethrurpg.com/product/349184/An-Cailleach-An-Irish-Folklore-Class-for-Mork-Borg) by [Michael Mars](https://www.drivethrurpg.com/browse/pub/18364/Michael-Mars).
+  * Fanatic Physician by Maldo.rxr.
   * [Forlorn Philosopher](https://freeleaguepublishing.com/en/store/?product_id=5985103151253) by [Pelle Nilsson](http://occultherbmaster.blogspot.com/).
   * [Fugitive Knight](https://neonon.itch.io/mork-borg-fugitive-knight) by [Michal Gotkowski](https://neonon.itch.io/).
   * [Pale One](https://drive.google.com/file/d/1QKI25D3spENoQb0CnB4I3uMPgCBrusDx/view) by Tim Rudloff.

@@ -26,6 +26,13 @@
       "entity": "Actor"
     },
     {
+      "name": "actors-fanatic-physician",
+      "label": "Actors - Fanatic Physician",
+      "system": "morkborg",
+      "path": "./packs/actors-fanatic-physician.db",
+      "entity": "Actor"
+    },    
+    {
       "name": "actors-forlorn-philoshoper",
       "label": "Actors - Forlorn Philosopher",
       "system": "morkborg",
@@ -79,6 +86,13 @@
       "label": "Class - Divine Hag",
       "system": "morkborg",
       "path": "./packs/class-divine-hag.db",
+      "entity": "Item"
+    },
+    {
+      "name": "class-fanatic-physician",
+      "label": "Class - Fanatic Physician",
+      "system": "morkborg",
+      "path": "./packs/class-fanatic-physician.db",
       "entity": "Item"
     },    
     {
@@ -177,6 +191,13 @@
       "label": "Rolls - Divine Hag",
       "system": "morkborg",
       "path": "./packs/rolls-divine-hag.db",
+      "entity": "RollTable"
+    },
+    {
+      "name": "rolls-fanatic-physician",
+      "label": "Rolls - Fanatic Physician",
+      "system": "morkborg",
+      "path": "./packs/rolls-fanatic-physician.db",
       "entity": "RollTable"
     },    
     {
