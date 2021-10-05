@@ -110,6 +110,13 @@
       "entity": "Item"
     },
     {
+      "name": "class-sin-eater",
+      "label": "Class - Sin Eater",
+      "system": "morkborg",
+      "path": "./packs/class-sin-eater.db",
+      "entity": "Item"
+    },    
+    {
       "name": "class-slapping-bastard",
       "label": "Class - Slapping Bastard",
       "system": "morkborg",
@@ -200,6 +207,13 @@
       "path": "./packs/rolls-sacrilegious-songbird.db",
       "entity": "RollTable"
     },
+    {
+      "name": "rolls-sin-eater",
+      "label": "Rolls - Sin Eater",
+      "system": "morkborg",
+      "path": "./packs/rolls-sin-eater.db",
+      "entity": "RollTable"
+    },    
     {
       "name": "rolls-slapping-bastard",
       "label": "Rolls - Slapping Bastard",

@@ -26,6 +26,7 @@ morkborg-foundry-3p is an independent production by community contributors, and 
   * [Fugitive Knight](https://neonon.itch.io/mork-borg-fugitive-knight) by [Michal Gotkowski](https://neonon.itch.io/).
   * [Pale One](https://drive.google.com/file/d/1QKI25D3spENoQb0CnB4I3uMPgCBrusDx/view) by Tim Rudloff.
   * [Sacrilegious Songbird](https://makedatanotlore.itch.io/sacrilegious-songbird) by [Karl Druid](https://makedatanotlore.itch.io/).
+  * [Sin Eater](https://www.drivethrurpg.com/product/363116/We-Are-What-We-Are) by [Gregorius21778](https://gregorius21778.wordpress.com/).
   * [Slapping Bastard](https://anadversary.itch.io/slapping-bastard) by [Bracken MacLeod](https://anadversary.itch.io/).
   
 ### Feats

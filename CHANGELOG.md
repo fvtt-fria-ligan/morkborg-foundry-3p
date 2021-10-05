@@ -1,3 +1,6 @@
+# 0.2.10
+- Added Sin Eater by Gregorius21778.
+
 # 0.2.9
 - Added Betrayed Phantom by Sasha De'ath, Divine Hag by Michael Mars, and Slapping Bastard by Bracken MacLeod.
 
