@@ -15,16 +15,19 @@ morkborg-foundry-3p is an independent production by community contributors, and 
   * MBC class tokens made with art by [Johan Nohr](https://twitter.com/JohanNohr), and used with permission of the artist.
 
 ### Classes
+  * [Betrayed Phantom](https://theeldritchtomb.itch.io/betrayed-phantom) by [Sasha De'ath](https://theeldritchtomb.itch.io/).
   * [Blighted Merman](https://chalkdown.itch.io/blighted-merman) by [Chalkdown & Djuun](https://chalkdown.itch.io/).
   * [Catacomb Saint](https://imcclung.itch.io/catacomb-saint) by [Makooti](https://imcclung.itch.io/).
   * [Cursed Skinwalker](https://makedatanotlore.itch.io/cursed-skinwalker) by [Karl Druid](https://makedatanotlore.itch.io/). 
   * [Damned Blade-Thrall](https://nthdegree.itch.io/damned-blade-thrall-a-class-for-mork-borg) by Nathan Harrison / [Orbis Tertius Press](https://orbis-tertius.org/).
   * [Dead God's Prophet](https://drive.google.com/file/d/1NlxdeWP5p--1jw_4pueDO0rAy721mMJ_/view) by [Greg Saunders](https://firerubydesigns.co.uk/home?i=1).
+  * [Divine Hag](https://www.drivethrurpg.com/product/349184/An-Cailleach-An-Irish-Folklore-Class-for-Mork-Borg) by [Michael Mars](https://www.drivethrurpg.com/browse/pub/18364/Michael-Mars).
   * [Forlorn Philosopher](https://freeleaguepublishing.com/en/store/?product_id=5985103151253) by [Pelle Nilsson](http://occultherbmaster.blogspot.com/).
   * [Fugitive Knight](https://neonon.itch.io/mork-borg-fugitive-knight) by [Michal Gotkowski](https://neonon.itch.io/).
   * [Pale One](https://drive.google.com/file/d/1QKI25D3spENoQb0CnB4I3uMPgCBrusDx/view) by Tim Rudloff.
   * [Sacrilegious Songbird](https://makedatanotlore.itch.io/sacrilegious-songbird) by [Karl Druid](https://makedatanotlore.itch.io/).
-
+  * [Slapping Bastard](https://anadversary.itch.io/slapping-bastard) by [Bracken MacLeod](https://anadversary.itch.io/).
+  
 ### Feats
   * [Unheroic Feats](https://drive.google.com/file/d/1A4dl3yRXt19Am0ZV5tPyqjfnkJR0R5f8/view) by [Johnny Carhat](https://metalskull-games.itch.io/).
 

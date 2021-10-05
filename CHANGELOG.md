@@ -1,3 +1,6 @@
+# 0.2.9
+- Added Betrayed Phantom by Sasha De'ath, Divine Hag by Michael Mars, and Slapping Bastard by Bracken MacLeod.
+
 # 0.2.8
 - Added Forlorn Philosopher class, along with the Tablets of Ochre Obscurity.
 - Fixed typo in Pale one.
