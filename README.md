@@ -13,6 +13,7 @@ morkborg-foundry-3p is an independent production by community contributors, and 
 
 ### Art
   * MBC class tokens made with art by [Johan Nohr](https://twitter.com/JohanNohr), and used with permission of the artist.
+  * Additional token imagery from [Heritage Library](https://www.heritagetype.com/pages/free-vintage-illustrations).
 
 ### Classes
   * [Betrayed Phantom](https://theeldritchtomb.itch.io/betrayed-phantom) by [Sasha De'ath](https://theeldritchtomb.itch.io/).
