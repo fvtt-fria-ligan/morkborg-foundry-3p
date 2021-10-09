@@ -136,6 +136,13 @@
       "system": "morkborg",
       "path": "./packs/class-slapping-bastard.db",
       "entity": "Item"
+    },
+    {
+      "name": "class-the-bellfounder",
+      "label": "Class - The Bellfounder",
+      "system": "morkborg",
+      "path": "./packs/class-the-bellfounder.db",
+      "entity": "Item"
     },    
     {
       "name": "eldritch-elevations",
@@ -240,6 +247,13 @@
       "label": "Rolls - Slapping Bastard",
       "system": "morkborg",
       "path": "./packs/rolls-slapping-bastard.db",
+      "entity": "RollTable"
+    },
+    {
+      "name": "rolls-the-bellfounder",
+      "label": "Rolls - The Bellfounder",
+      "system": "morkborg",
+      "path": "./packs/rolls-the-bellfounder.db",
       "entity": "RollTable"
     },    
     {
