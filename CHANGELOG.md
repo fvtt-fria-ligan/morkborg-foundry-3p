@@ -1,5 +1,6 @@
-# 0.2.11
+# 0.3.0
 - Add The Bellfounder by Wayward Polyhedral.
+- Try to do better semantic versioning :P
 
 # 0.2.10
 - Added Sin Eater by Gregorius21778.
