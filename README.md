@@ -30,6 +30,7 @@ morkborg-foundry-3p is an independent production by community contributors, and 
   * [Sacrilegious Songbird](https://makedatanotlore.itch.io/sacrilegious-songbird) by [Karl Druid](https://makedatanotlore.itch.io/).
   * [Sin Eater](https://www.drivethrurpg.com/product/363116/We-Are-What-We-Are) by [Gregorius21778](https://gregorius21778.wordpress.com/).
   * [Slapping Bastard](https://anadversary.itch.io/slapping-bastard) by [Bracken MacLeod](https://anadversary.itch.io/).
+  * ["The" Bellfounder](https://www.drivethrurpg.com/product/345462/The-Bellfounder-Class-ThirdParty-Mork-Borg-Publication) by [Wayward Polyhedral](https://www.drivethrurpg.com/browse/pub/18666/Wayward-Polyhedral).
   
 ### Feats
   * [Unheroic Feats](https://drive.google.com/file/d/1A4dl3yRXt19Am0ZV5tPyqjfnkJR0R5f8/view) by [Johnny Carhat](https://metalskull-games.itch.io/).

@@ -1,3 +1,6 @@
+# 0.2.11
+- Add The Bellfounder by Wayward Polyhedral.
+
 # 0.2.10
 - Added Sin Eater by Gregorius21778.
 - Added Fanatic Physician by Maldo.rxr.
