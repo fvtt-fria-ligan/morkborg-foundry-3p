@@ -1,3 +1,7 @@
+# 0.4.0 
+- Add Exalted Gambler class by Maciej Sznurkowski.
+- Add Svampätare class by ReverendUncleBastard.
+
 # 0.3.0
 - Add The Bellfounder by Wayward Polyhedral.
 - Try to do better semantic versioning :P

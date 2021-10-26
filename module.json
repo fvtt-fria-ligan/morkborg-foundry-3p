@@ -89,6 +89,13 @@
       "entity": "Item"
     },
     {
+      "name": "class-exalted-gambler",
+      "label": "Class - Exalted Gambler",
+      "system": "morkborg",
+      "path": "./packs/class-exalted-gambler.db",
+      "entity": "Item"
+    },
+    {
       "name": "class-fanatic-physician",
       "label": "Class - Fanatic Physician",
       "system": "morkborg",
@@ -137,6 +144,13 @@
       "path": "./packs/class-slapping-bastard.db",
       "entity": "Item"
     },
+    {
+      "name": "class-svampatare",
+      "label": "Class - Svampätare",
+      "system": "morkborg",
+      "path": "./packs/class-svampatare.db",
+      "entity": "Item"
+    },    
     {
       "name": "class-the-bellfounder",
       "label": "Class - The Bellfounder",
@@ -201,6 +215,13 @@
       "entity": "RollTable"
     },
     {
+      "name": "rolls-exalted-gambler",
+      "label": "Rolls - Exalted Gambler",
+      "system": "morkborg",
+      "path": "./packs/rolls-exalted-gambler.db",
+      "entity": "RollTable"
+    },    
+    {
       "name": "rolls-fanatic-physician",
       "label": "Rolls - Fanatic Physician",
       "system": "morkborg",
@@ -249,6 +270,13 @@
       "path": "./packs/rolls-slapping-bastard.db",
       "entity": "RollTable"
     },
+    {
+      "name": "rolls-svampatare",
+      "label": "Rolls - Svampätare",
+      "system": "morkborg",
+      "path": "./packs/rolls-svampatare.db",
+      "entity": "RollTable"
+    },    
     {
       "name": "rolls-the-bellfounder",
       "label": "Rolls - The Bellfounder",
