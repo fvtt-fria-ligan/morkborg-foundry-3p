@@ -360,6 +360,27 @@
         "system": "morkborg",
         "path": "./packs/macros-overland-travel.db",
         "entity": "Macro"
+    },
+    {
+      "name": "macros-the-tenebrous-reliquary",
+      "label": "Macros - The Tenebrous Reliquary",
+      "system": "morkborg",
+      "path": "./packs/macros-the-tenebrous-reliquary.db",
+      "entity": "Macro"            
+    },
+    {
+        "name": "rolls-the-tenebrous-reliquary",
+        "label": "Rolls - The Tenebrous Reliquary",
+        "system": "morkborg",
+        "path": "./packs/rolls-the-tenebrous-reliquary.db",
+        "entity": "RollTable"
+    },
+    {
+        "name": "items-the-tenebrous-reliquary",
+        "label": "Items - The Tenebrous Reliquary",
+        "system": "morkborg",            
+        "path": "./packs/items-the-tenebrous-reliquary.db",
+        "entity": "Item"
     }    
   ],
   "scripts": [
