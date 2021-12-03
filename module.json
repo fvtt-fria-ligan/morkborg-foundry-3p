@@ -292,6 +292,62 @@
       "entity": "Item"
     },
     {
+      "name": "actors-eat-prey-kill",
+      "label": "Actors - Eat Prey Kill",
+      "system": "morkborg",
+      "path": "./packs/actors-eat-prey-kill.db",
+      "entity": "Actor"            
+    },
+    {
+        "name": "macros-eat-prey-kill",
+        "label": "Macros - Eat Prey Kill",
+        "system": "morkborg",
+        "path": "./packs/macros-eat-prey-kill.db",
+        "entity": "Macro"
+    },
+    {
+        "name": "rolls-eat-prey-kill",
+        "label": "Rolls - Eat Prey Kill",
+        "system": "morkborg",
+        "path": "./packs/rolls-eat-prey-kill.db",
+        "entity": "RollTable"
+    },
+    {
+        "name": "actors-the-merchant",
+        "label": "Actors - The Merchant",
+        "system": "morkborg",
+        "path": "./packs/actors-the-merchant.db",
+        "entity": "Actor"            
+    },
+    {
+        "name": "items-the-merchant",
+        "label": "Items - The Merchant",
+        "system": "morkborg",
+        "path": "./packs/items-the-merchant.db",
+        "entity": "Item"
+    },
+    {
+        "name": "macros-the-merchant",
+        "label": "Macros - The Merchant",
+        "system": "morkborg",
+        "path": "./packs/macros-the-merchant.db",
+        "entity": "Macro"
+    },
+    {
+        "name": "rolls-the-merchant",
+        "label": "Rolls - The Merchant",
+        "system": "morkborg",
+        "path": "./packs/rolls-the-merchant.db",
+        "entity": "RollTable"
+    },
+    {
+        "name": "more-unheroic-feats",
+        "label": "More Unheroic Feats",
+        "system": "morkborg",
+        "path": "./packs/more-unheroic-feats.db",
+        "entity": "Item"
+    },
+    {
       "name": "rolls-overland-travel",
       "label": "Rolls - Overland Travel",
       "system": "morkborg",
@@ -304,7 +360,7 @@
         "system": "morkborg",
         "path": "./packs/macros-overland-travel.db",
         "entity": "Macro"
-    }
+    }    
   ],
   "scripts": [
     "/scripts/lib/lib.js"
