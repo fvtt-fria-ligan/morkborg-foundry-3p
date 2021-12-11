@@ -1,3 +1,6 @@
+# 0.5.0
+- Made morkborg-3p compatible with Foundry v9.
+
 # 0.4.0 
 - Added Exalted Gambler class by Maciej Sznurkowski.
 - Added Svampätare class by ReverendUncleBastard.
