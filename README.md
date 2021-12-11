@@ -6,6 +6,8 @@ morkborg-foundry-3p is an independent production by community contributors, and 
 
 [MÖRK BORG](https://www.morkborg.com) is copyright Ockult Örtmästare Games and Stockholm Kartell.
 
+![Latest Release Download Count](https://img.shields.io/github/downloads/fvtt-fria-ligan/morkborg-foundry-3p/latest/module.zip)
+
 ## Buy the Book
 [MÖRK BORG Artpunk RPG](https://frialigan.se/en/store/?product_id=4529866506377)
 
