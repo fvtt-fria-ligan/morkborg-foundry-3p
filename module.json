@@ -346,6 +346,20 @@
         "system": "morkborg",
         "path": "./packs/more-unheroic-feats.db",
         "entity": "Item"
+    },
+    {
+      "name": "rolls-overland-travel",
+      "label": "Rolls - Overland Travel",
+      "system": "morkborg",
+      "path": "./packs/rolls-overland-travel.db",
+      "entity": "RollTable"
+    },        
+    {
+        "name": "macros-overland-travel",
+        "label": "Macros - Overland Travel",
+        "system": "morkborg",
+        "path": "./packs/macros-overland-travel.db",
+        "entity": "Macro"
     }    
   ],
   "scripts": [
