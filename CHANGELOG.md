@@ -1,3 +1,9 @@
+# 0.6.0
+- Added Eat Prey Kill by Karl Druid.
+- Added Overland Travel by Svante Landgraf.
+- Added The Merchant by Johnny Carhat.
+- Added More Unheroic Feats by the MÖRK BORG Discord community.
+
 # 0.5.0
 - Made morkborg-3p compatible with Foundry v9.
 
