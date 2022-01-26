@@ -37,7 +37,7 @@ morkborg-foundry-3p is an independent production by community contributors, and 
   * ["The" Bellfounder](https://www.drivethrurpg.com/product/345462/The-Bellfounder-Class-ThirdParty-Mork-Borg-Publication) by [Wayward Polyhedral](https://www.drivethrurpg.com/browse/pub/18666/Wayward-Polyhedral).
   
 ### Creatures
-  * [Eat Prey Kill](https://makedatanotlore.itch.io/cursed-skinwalker) by [Karl Druid](https://makedatanotlore.itch.io/)
+  * [Eat Prey Kill](https://makedatanotlore.itch.io/eat-prey-kill) by [Karl Druid](https://makedatanotlore.itch.io/)
 
 ### Feats
   * [Unheroic Feats](https://drive.google.com/file/d/1A4dl3yRXt19Am0ZV5tPyqjfnkJR0R5f8/view) by [Johnny Carhat](https://metalskull-games.itch.io/).
