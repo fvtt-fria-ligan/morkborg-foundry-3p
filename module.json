@@ -374,7 +374,14 @@
         "system": "morkborg",
         "path": "./packs/macros-d100-items-and-trinkets.db",
         "entity": "Macro"
-    }
+    },
+    {
+      "name": "rolls-unheroic-feats-and-more",
+      "label": "Rolls - Unheroic Feats and more",
+      "system": "morkborg",
+      "path": "./packs/rolls-unheroic-feats-and-more.db",
+      "entity": "RollTable"
+    }     
   ],
   "scripts": [
     "/scripts/lib/lib.js"
