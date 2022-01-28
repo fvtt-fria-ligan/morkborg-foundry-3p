@@ -14,9 +14,7 @@
       "type": "system"
     }
   ],
-  "esmodules": [
-    "/scripts/module.js"
-  ],
+  "esmodules": ["/scripts/module.js"],
   "packs": [
     {
       "name": "actors-damned-blade-thrall",
@@ -26,12 +24,19 @@
       "entity": "Actor"
     },
     {
+      "name": "actors-eat-prey-kill",
+      "label": "Actors - Eat Prey Kill",
+      "system": "morkborg",
+      "path": "./packs/actors-eat-prey-kill.db",
+      "entity": "Actor"
+    },
+    {
       "name": "actors-fanatic-physician",
       "label": "Actors - Fanatic Physician",
       "system": "morkborg",
       "path": "./packs/actors-fanatic-physician.db",
       "entity": "Actor"
-    },    
+    },
     {
       "name": "actors-forlorn-philoshoper",
       "label": "Actors - Forlorn Philosopher",
@@ -40,12 +45,19 @@
       "entity": "Actor"
     },
     {
+      "name": "actors-the-merchant",
+      "label": "Actors - The Merchant",
+      "system": "morkborg",
+      "path": "./packs/actors-the-merchant.db",
+      "entity": "Actor"
+    },
+    {
       "name": "class-betrayed-phantom",
       "label": "Class - Betrayed Phantom",
       "system": "morkborg",
       "path": "./packs/class-betrayed-phantom.db",
       "entity": "Item"
-    },    
+    },
     {
       "name": "class-blighted-merman",
       "label": "Class - Blighted Merman",
@@ -101,7 +113,7 @@
       "system": "morkborg",
       "path": "./packs/class-fanatic-physician.db",
       "entity": "Item"
-    },    
+    },
     {
       "name": "class-forlorn-philosopher",
       "label": "Class - Forlorn Philosopher",
@@ -136,7 +148,7 @@
       "system": "morkborg",
       "path": "./packs/class-sin-eater.db",
       "entity": "Item"
-    },    
+    },
     {
       "name": "class-slapping-bastard",
       "label": "Class - Slapping Bastard",
@@ -150,20 +162,76 @@
       "system": "morkborg",
       "path": "./packs/class-svampatare.db",
       "entity": "Item"
-    },    
+    },
     {
       "name": "class-the-bellfounder",
       "label": "Class - The Bellfounder",
       "system": "morkborg",
       "path": "./packs/class-the-bellfounder.db",
       "entity": "Item"
-    },    
+    },
     {
-      "name": "eldritch-elevations",
-      "label": "Eldritch Elevations",
+      "name": "items-more-unheroic-feats",
+      "label": "Items - More Unheroic Feats",
       "system": "morkborg",
-      "path": "./packs/eldritch-elevations.db",
-      "entity": "RollTable"
+      "path": "./packs/items-more-unheroic-feats.db",
+      "entity": "Item"
+    },
+    {
+      "name": "items-the-merchant",
+      "label": "Items - The Merchant",
+      "system": "morkborg",
+      "path": "./packs/items-the-merchant.db",
+      "entity": "Item"
+    },
+    {
+      "name": "items-the-tenebrous-reliquary",
+      "label": "Items - The Tenebrous Reliquary",
+      "system": "morkborg",
+      "path": "./packs/items-the-tenebrous-reliquary.db",
+      "entity": "Item"
+    },
+    {
+      "name": "items-unheroic-feats",
+      "label": "Items - Unheroic Feats",
+      "system": "morkborg",
+      "path": "./packs/items-unheroic-feats.db",
+      "entity": "Item"
+    },
+    {
+      "name": "macros-d100-items-and-trinkets",
+      "label": "Macros - d100 Items and Trinkets",
+      "system": "morkborg",
+      "path": "./packs/macros-d100-items-and-trinkets.db",
+      "entity": "Macro"
+    },
+    {
+      "name": "macros-eat-prey-kill",
+      "label": "Macros - Eat Prey Kill",
+      "system": "morkborg",
+      "path": "./packs/macros-eat-prey-kill.db",
+      "entity": "Macro"
+    },
+    {
+      "name": "macros-overland-travel",
+      "label": "Macros - Overland Travel",
+      "system": "morkborg",
+      "path": "./packs/macros-overland-travel.db",
+      "entity": "Macro"
+    },
+    {
+      "name": "macros-the-tenebrous-reliquary",
+      "label": "Macros - The Tenebrous Reliquary",
+      "system": "morkborg",
+      "path": "./packs/macros-the-tenebrous-reliquary.db",
+      "entity": "Macro"
+    },
+    {
+      "name": "macros-the-merchant",
+      "label": "Macros - The Merchant",
+      "system": "morkborg",
+      "path": "./packs/macros-the-merchant.db",
+      "entity": "Macro"
     },
     {
       "name": "rolls-betrayed-phantom",
@@ -185,7 +253,7 @@
       "system": "morkborg",
       "path": "./packs/rolls-catacomb-saint.db",
       "entity": "RollTable"
-    },    
+    },
     {
       "name": "rolls-cursed-skinwalker",
       "label": "Rolls - Cursed Skinwalker",
@@ -199,7 +267,7 @@
       "system": "morkborg",
       "path": "./packs/rolls-damned-blade-thrall.db",
       "entity": "RollTable"
-    },    
+    },
     {
       "name": "rolls-dead-gods-prophet",
       "label": "Rolls - Dead God's Prophet",
@@ -220,14 +288,14 @@
       "system": "morkborg",
       "path": "./packs/rolls-exalted-gambler.db",
       "entity": "RollTable"
-    },    
+    },
     {
       "name": "rolls-fanatic-physician",
       "label": "Rolls - Fanatic Physician",
       "system": "morkborg",
       "path": "./packs/rolls-fanatic-physician.db",
       "entity": "RollTable"
-    },    
+    },
     {
       "name": "rolls-forlorn-philosopher",
       "label": "Rolls - Forlorn Philosopher",
@@ -262,7 +330,7 @@
       "system": "morkborg",
       "path": "./packs/rolls-sin-eater.db",
       "entity": "RollTable"
-    },    
+    },
     {
       "name": "rolls-slapping-bastard",
       "label": "Rolls - Slapping Bastard",
@@ -276,111 +344,20 @@
       "system": "morkborg",
       "path": "./packs/rolls-svampatare.db",
       "entity": "RollTable"
-    },    
+    },
     {
       "name": "rolls-the-bellfounder",
       "label": "Rolls - The Bellfounder",
       "system": "morkborg",
       "path": "./packs/rolls-the-bellfounder.db",
       "entity": "RollTable"
-    },    
+    },
     {
-      "name": "unheroic-feats",
-      "label": "Unheroic Feats",
+      "name": "rolls-eat-prey-kill",
+      "label": "Rolls - Eat Prey Kill",
       "system": "morkborg",
-      "path": "./packs/unheroic-feats.db",
-      "entity": "Item"
-    },
-    {
-      "name": "actors-eat-prey-kill",
-      "label": "Actors - Eat Prey Kill",
-      "system": "morkborg",
-      "path": "./packs/actors-eat-prey-kill.db",
-      "entity": "Actor"            
-    },
-    {
-        "name": "macros-eat-prey-kill",
-        "label": "Macros - Eat Prey Kill",
-        "system": "morkborg",
-        "path": "./packs/macros-eat-prey-kill.db",
-        "entity": "Macro"
-    },
-    {
-        "name": "rolls-eat-prey-kill",
-        "label": "Rolls - Eat Prey Kill",
-        "system": "morkborg",
-        "path": "./packs/rolls-eat-prey-kill.db",
-        "entity": "RollTable"
-    },
-    {
-        "name": "actors-the-merchant",
-        "label": "Actors - The Merchant",
-        "system": "morkborg",
-        "path": "./packs/actors-the-merchant.db",
-        "entity": "Actor"            
-    },
-    {
-        "name": "items-the-merchant",
-        "label": "Items - The Merchant",
-        "system": "morkborg",
-        "path": "./packs/items-the-merchant.db",
-        "entity": "Item"
-    },
-    {
-        "name": "macros-the-merchant",
-        "label": "Macros - The Merchant",
-        "system": "morkborg",
-        "path": "./packs/macros-the-merchant.db",
-        "entity": "Macro"
-    },
-    {
-        "name": "rolls-the-merchant",
-        "label": "Rolls - The Merchant",
-        "system": "morkborg",
-        "path": "./packs/rolls-the-merchant.db",
-        "entity": "RollTable"
-    },
-    {
-        "name": "more-unheroic-feats",
-        "label": "More Unheroic Feats",
-        "system": "morkborg",
-        "path": "./packs/more-unheroic-feats.db",
-        "entity": "Item"
-    },
-    {
-      "name": "rolls-overland-travel",
-      "label": "Rolls - Overland Travel",
-      "system": "morkborg",
-      "path": "./packs/rolls-overland-travel.db",
+      "path": "./packs/rolls-eat-prey-kill.db",
       "entity": "RollTable"
-    },        
-    {
-        "name": "macros-overland-travel",
-        "label": "Macros - Overland Travel",
-        "system": "morkborg",
-        "path": "./packs/macros-overland-travel.db",
-        "entity": "Macro"
-    },
-    {
-      "name": "macros-the-tenebrous-reliquary",
-      "label": "Macros - The Tenebrous Reliquary",
-      "system": "morkborg",
-      "path": "./packs/macros-the-tenebrous-reliquary.db",
-      "entity": "Macro"            
-    },
-    {
-        "name": "rolls-the-tenebrous-reliquary",
-        "label": "Rolls - The Tenebrous Reliquary",
-        "system": "morkborg",
-        "path": "./packs/rolls-the-tenebrous-reliquary.db",
-        "entity": "RollTable"
-    },
-    {
-        "name": "items-the-tenebrous-reliquary",
-        "label": "Items - The Tenebrous Reliquary",
-        "system": "morkborg",            
-        "path": "./packs/items-the-tenebrous-reliquary.db",
-        "entity": "Item"
     },
     {
       "name": "rolls-d100-items-and-trinkets",
@@ -390,11 +367,32 @@
       "entity": "RollTable"
     },
     {
-        "name": "macros-d100-items-and-trinkets",
-        "label": "Macros - d100 Items and Trinkets",
-        "system": "morkborg",
-        "path": "./packs/macros-d100-items-and-trinkets.db",
-        "entity": "Macro"
+      "name": "rolls-eldritch-elevations",
+      "label": "Rolls - Eldritch Elevations",
+      "system": "morkborg",
+      "path": "./packs/rolls-eldritch-elevations.db",
+      "entity": "RollTable"
+    },
+    {
+      "name": "rolls-overland-travel",
+      "label": "Rolls - Overland Travel",
+      "system": "morkborg",
+      "path": "./packs/rolls-overland-travel.db",
+      "entity": "RollTable"
+    },
+    {
+      "name": "rolls-the-merchant",
+      "label": "Rolls - The Merchant",
+      "system": "morkborg",
+      "path": "./packs/rolls-the-merchant.db",
+      "entity": "RollTable"
+    },
+    {
+      "name": "rolls-the-tenebrous-reliquary",
+      "label": "Rolls - The Tenebrous Reliquary",
+      "system": "morkborg",
+      "path": "./packs/rolls-the-tenebrous-reliquary.db",
+      "entity": "RollTable"
     },
     {
       "name": "rolls-unheroic-feats-and-more",
@@ -402,14 +400,10 @@
       "system": "morkborg",
       "path": "./packs/rolls-unheroic-feats-and-more.db",
       "entity": "RollTable"
-    }     
+    }
   ],
-  "scripts": [
-    "/scripts/lib/lib.js"
-  ],
-  "styles": [
-    "/styles/module.css"
-  ],
+  "scripts": ["/scripts/lib/lib.js"],
+  "styles": ["/styles/module.css"],
   "languages": [
     {
       "lang": "en",
