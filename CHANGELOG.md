@@ -1,6 +1,6 @@
 # 0.7.1
-- Fix Merchant item typo "Store Dagger".
-- Fix roll tables for Unheroic Feats and More Unheroic Feats.
+- Fixed Merchant item typo "Store Dagger".
+- Fixed roll tables for Unheroic Feats and More Unheroic Feats.
 
 # 0.7.0
 - Added d100 Items and Trinkets by Pelle Svensson.
