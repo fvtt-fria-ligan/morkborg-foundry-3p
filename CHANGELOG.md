@@ -1,3 +1,7 @@
+# 0.7.1
+- Fix Merchant item typo "Store Dagger".
+- Fix roll tables for Unheroic Feats and More Unheroic Feats.
+
 # 0.7.0
 - Added d100 Items and Trinkets by Pelle Svensson.
 - Added The Tenebrous Reliquary by Anders Arpi, Ben H, Dom Cohen, Ripley C, Johan Nohr, Karl Druid, Leander E, Paul Wilde and Flora v/d B.
