@@ -45,10 +45,12 @@ morkborg-foundry-3p is an independent production by community contributors, and 
 
 ### Items
   * [The Merchant](https://morkborg.com/content/) by [Johnny Carhat](https://metalskull-games.itch.io/)
+  * [The Tenebrous Reliquary](https://morkborg.com/content/) by Anders Arpi, Ben H, Dom Cohen, Ripley C, Johan Nohr, Karl Druid, Leander E, Paul Wilde and Flora v/d B.
+  * [d100 Items and Trinkets](https://morkborg.com/content/) by Pelle Svensson (with approval from Johan Nohr).
 
 ### Rolltables
   * [Eldritch Elevations](https://www.drivethrurpg.com/product/342353/Eldritch-Elevations-A-Table-for-Mork-Borg) by [Michael Mars](https://www.drivethrurpg.com/browse/pub/18364/Michael-Mars).
-  * [Overland Travel](https://morkborg.com/content/) by [Svante Landgraf](http://dimfrost.itch.io/).  
+  * [Overland Travel](https://morkborg.com/content/) by [Svante Landgraf](http://dimfrost.itch.io/).
 
 ## License
   * Content: [MÖRK BORG Third Party License](https://morkborg.com/license/)

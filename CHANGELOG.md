@@ -1,3 +1,7 @@
+# 0.7.0
+- Added d100 Items and Trinkets by Pelle Svensson.
+- Added The Tenebrous Reliquary by Anders Arpi, Ben H, Dom Cohen, Ripley C, Johan Nohr, Karl Druid, Leander E, Paul Wilde and Flora v/d B.
+
 # 0.6.0
 - Added Eat Prey Kill by Karl Druid.
 - Added Overland Travel by Svante Landgraf.
