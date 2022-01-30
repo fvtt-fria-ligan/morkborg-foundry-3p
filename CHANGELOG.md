@@ -1,3 +1,6 @@
+# 0.8.0
+- Added "MÖRK BORG 3P Credits" journal entry with author credits.
+
 # 0.7.1
 - Fixed Merchant item typo "Store Dagger".
 - Fixed roll tables for Unheroic Feats and More Unheroic Feats.

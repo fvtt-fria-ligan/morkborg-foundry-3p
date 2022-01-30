@@ -199,6 +199,13 @@
       "entity": "Item"
     },
     {
+      "name": "journalentries-morkborg-3p",
+      "label": "MÖRK BORG Third Party",
+      "system": "morkborg",
+      "path": "./packs/journalentries-morkborg-3p.db",
+      "entity": "JournalEntry"
+    },    
+    {
       "name": "macros-d100-items-and-trinkets",
       "label": "Macros - d100 Items and Trinkets",
       "system": "morkborg",
