@@ -1,3 +1,6 @@
+# 1.0.0
+- Marked compatibility with v10.
+
 # 0.8.0
 - Added "MÖRK BORG 3P Credits" journal entry with author credits.
 
