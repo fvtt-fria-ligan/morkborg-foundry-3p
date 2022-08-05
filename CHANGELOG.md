@@ -1,4 +1,4 @@
-# 1.0.0
+# 0.9.0
 - Marked compatibility with v10.
 
 # 0.8.0
