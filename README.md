@@ -1,4 +1,4 @@
-# morkborg-foundry-3p
+# MÖRK BORG Third-Party Content
 
 Third-party content for the unofficial MÖRK BORG Foundry system.
 
