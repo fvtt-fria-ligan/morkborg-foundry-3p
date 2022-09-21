@@ -1,6 +1,6 @@
 # MÖRK BORG Third-Party Content
 
-Third-party content for the unofficial MÖRK BORG Foundry system.
+Third-party content for the unofficial [MÖRK BORG Foundry System](https://foundryvtt.com/packages/morkborg).
 
 morkborg-foundry-3p is an independent production by community contributors, and is not affiliated with Ockult Örtmästare Games or Stockholm Kartell. It is published under the [MÖRK BORG Third Party License](https://morkborg.com/license/).
 
