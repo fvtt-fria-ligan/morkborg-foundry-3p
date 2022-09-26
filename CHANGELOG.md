@@ -1,3 +1,7 @@
+# 1.0.0
+
+- Foundry v10 compatibility.
+
 # 0.9.0
 - Marked compatibility with v10.
 
