@@ -1,3 +1,8 @@
+# 1.1.0
+
+- Removed old module.json dependencies stanza.
+- Fixed Catacomb Saint for renamed morkborg compendium pack.
+
 # 1.0.0
 
 - Foundry v10 compatibility.
