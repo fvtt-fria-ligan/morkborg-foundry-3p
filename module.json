@@ -14,12 +14,6 @@
       "name": "mcglintlock"
     }    
   ],  
-  "dependencies": [
-    {
-      "name": "morkborg",
-      "type": "system"
-    }
-  ],
   "relationships": {
     "systems": [{
       "id": "morkborg",
