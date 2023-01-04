@@ -2,6 +2,7 @@
 
 - Removed old module.json dependencies stanza.
 - Fixed Catacomb Saint for renamed morkborg compendium pack.
+- On module init, set MB config setting to use Eldritch Elevations for wield power crits.
 
 # 1.0.0
 
