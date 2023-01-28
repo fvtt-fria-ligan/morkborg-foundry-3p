@@ -111,6 +111,13 @@
       "type": "Item"
     },
     {
+      "name": "class-drunkard",
+      "label": "Class - Drunkard",
+      "system": "morkborg",
+      "path": "./packs/class-drunkard.db",
+      "type": "Item"
+    },
+    {
       "name": "class-exalted-gambler",
       "label": "Class - Exalted Gambler",
       "system": "morkborg",
@@ -297,6 +304,13 @@
       "label": "Rolls - Divine Hag",
       "system": "morkborg",
       "path": "./packs/rolls-divine-hag.db",
+      "type": "RollTable"
+    },
+    {
+      "name": "rolls-drunkard",
+      "label": "Rolls - Drunkard",
+      "system": "morkborg",
+      "path": "./packs/rolls-drunkard.db",
       "type": "RollTable"
     },
     {
