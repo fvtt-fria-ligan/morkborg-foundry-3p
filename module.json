@@ -258,6 +258,13 @@
       "type": "Macro"
     },
     {
+      "name": "macros-drunkard",
+      "label": "Macros - Drunkard",
+      "system": "morkborg",
+      "path": "./packs/macros-drunkard.db",
+      "type": "Macro"
+    },
+    {
       "name": "rolls-betrayed-phantom",
       "label": "Rolls - Betrayed Phantom",
       "system": "morkborg",
