@@ -111,10 +111,10 @@
       "type": "Item"
     },
     {
-      "name": "class-drunkard",
-      "label": "Class - Drunkard",
+      "name": "class-soul-damned-drunkard",
+      "label": "Class - Soul-Damned Drunkard",
       "system": "morkborg",
-      "path": "./packs/class-drunkard.db",
+      "path": "./packs/class-soul-damned-drunkard.db",
       "type": "Item"
     },
     {
@@ -258,10 +258,10 @@
       "type": "Macro"
     },
     {
-      "name": "macros-drunkard",
-      "label": "Macros - Drunkard",
+      "name": "macros-soul-damned-drunkard",
+      "label": "Macros - Soul-Damned Drunkard",
       "system": "morkborg",
-      "path": "./packs/macros-drunkard.db",
+      "path": "./packs/macros-soul-damned-drunkard.db",
       "type": "Macro"
     },
     {
@@ -314,10 +314,10 @@
       "type": "RollTable"
     },
     {
-      "name": "rolls-drunkard",
-      "label": "Rolls - Drunkard",
+      "name": "rolls-soul-damned-runkard",
+      "label": "Rolls - Soul-Damned Drunkard",
       "system": "morkborg",
-      "path": "./packs/rolls-drunkard.db",
+      "path": "./packs/rolls-soul-damned-drunkard.db",
       "type": "RollTable"
     },
     {

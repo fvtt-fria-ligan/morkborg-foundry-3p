@@ -25,7 +25,6 @@ morkborg-foundry-3p is an independent production by community contributors, and 
   * [Damned Blade-Thrall](https://nthdegree.itch.io/damned-blade-thrall-a-class-for-mork-borg) by Nathan Harrison / [Orbis Tertius Press](https://orbis-tertius.org/).
   * [Dead God's Prophet](https://drive.google.com/file/d/1NlxdeWP5p--1jw_4pueDO0rAy721mMJ_/view) by [Greg Saunders](https://firerubydesigns.co.uk/home?i=1).
   * [Divine Hag](https://www.drivethrurpg.com/product/349184/An-Cailleach-An-Irish-Folklore-Class-for-Mork-Borg) by [Michael Mars](https://www.drivethrurpg.com/browse/pub/18364/Michael-Mars).
-  * [Drunkard](https://www.drivethrurpg.com/product/423719/Malum-Mortis-A-Mork-Borg-Metaplot) by [SmokeRaven](https://www.smokeraven.com).
   * [Exalted Gambler](https://www.drivethrurpg.com/product/332162/Exalted-Gambler-A-class-for-MORK-BORG) by [Maciej Sznurkowski](https://www.drivethrurpg.com/browse/pub/17361/Sznurek).
   * Fanatic Physician by Maldo.rxr.
   * [Forlorn Philosopher](https://freeleaguepublishing.com/en/store/?product_id=5985103151253) by [Pelle Nilsson](http://occultherbmaster.blogspot.com/).
@@ -34,6 +33,7 @@ morkborg-foundry-3p is an independent production by community contributors, and 
   * [Sacrilegious Songbird](https://makedatanotlore.itch.io/sacrilegious-songbird) by [Karl Druid](https://makedatanotlore.itch.io/).
   * [Sin Eater](https://www.drivethrurpg.com/product/363116/We-Are-What-We-Are) by [Gregorius21778](https://gregorius21778.wordpress.com/).
   * [Slapping Bastard](https://anadversary.itch.io/slapping-bastard) by [Bracken MacLeod](https://anadversary.itch.io/).
+  * [Soul-Damned Drunkard](https://www.drivethrurpg.com/product/423719/Malum-Mortis-A-Mork-Borg-Metaplot) by [SmokeRaven](https://www.smokeraven.com).
   * [Svampätare](https://reverendunclebastard.itch.io/svamp) by [ReverendUncleBastard](https://itch.io/profile/reverendunclebastard).
   * ["The" Bellfounder](https://www.drivethrurpg.com/product/345462/The-Bellfounder-Class-ThirdParty-Mork-Borg-Publication) by [Wayward Polyhedral](https://www.drivethrurpg.com/browse/pub/18666/Wayward-Polyhedral).
   
