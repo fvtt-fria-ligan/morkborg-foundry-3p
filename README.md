@@ -33,6 +33,7 @@ morkborg-foundry-3p is an independent production by community contributors, and 
   * [Sacrilegious Songbird](https://makedatanotlore.itch.io/sacrilegious-songbird) by [Karl Druid](https://makedatanotlore.itch.io/).
   * [Sin Eater](https://www.drivethrurpg.com/product/363116/We-Are-What-We-Are) by [Gregorius21778](https://gregorius21778.wordpress.com/).
   * [Slapping Bastard](https://anadversary.itch.io/slapping-bastard) by [Bracken MacLeod](https://anadversary.itch.io/).
+  * [Soul-Damned Drunkard](https://www.drivethrurpg.com/product/423719/Malum-Mortis-A-Mork-Borg-Metaplot) by [SmokeRaven](https://www.smokeraven.com).
   * [Svampätare](https://reverendunclebastard.itch.io/svamp) by [ReverendUncleBastard](https://itch.io/profile/reverendunclebastard).
   * ["The" Bellfounder](https://www.drivethrurpg.com/product/345462/The-Bellfounder-Class-ThirdParty-Mork-Borg-Publication) by [Wayward Polyhedral](https://www.drivethrurpg.com/browse/pub/18666/Wayward-Polyhedral).
   

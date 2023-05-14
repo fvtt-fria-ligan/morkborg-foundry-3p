@@ -111,6 +111,13 @@
       "type": "Item"
     },
     {
+      "name": "class-soul-damned-drunkard",
+      "label": "Class - Soul-Damned Drunkard",
+      "system": "morkborg",
+      "path": "./packs/class-soul-damned-drunkard.db",
+      "type": "Item"
+    },
+    {
       "name": "class-exalted-gambler",
       "label": "Class - Exalted Gambler",
       "system": "morkborg",
@@ -251,6 +258,13 @@
       "type": "Macro"
     },
     {
+      "name": "macros-soul-damned-drunkard",
+      "label": "Macros - Soul-Damned Drunkard",
+      "system": "morkborg",
+      "path": "./packs/macros-soul-damned-drunkard.db",
+      "type": "Macro"
+    },
+    {
       "name": "rolls-betrayed-phantom",
       "label": "Rolls - Betrayed Phantom",
       "system": "morkborg",
@@ -297,6 +311,13 @@
       "label": "Rolls - Divine Hag",
       "system": "morkborg",
       "path": "./packs/rolls-divine-hag.db",
+      "type": "RollTable"
+    },
+    {
+      "name": "rolls-soul-damned-runkard",
+      "label": "Rolls - Soul-Damned Drunkard",
+      "system": "morkborg",
+      "path": "./packs/rolls-soul-damned-drunkard.db",
       "type": "RollTable"
     },
     {
