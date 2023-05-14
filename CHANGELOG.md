@@ -1,6 +1,7 @@
 # 1.2.0
 
-- Switch to Mork Borg system's new method of registering classes for creating scvm.
+- Added Soul-Damned Drunkard class (by SmokeRaven).
+- Switched to Mork Borg system's new method of registering classes for creating scvm.
 
 # 1.1.0
 
