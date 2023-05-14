@@ -36,6 +36,8 @@ Hooks.once('init', async function() {
   	"Compendium.morkborg-3p.class-sin-eater.GhuFnPrfEgzS0NjU",
   	// slapping bastard
   	"Compendium.morkborg-3p.class-slapping-bastard.qPSUBgeMWRkCtQFq",
+  	// soul-damned drunkard
+	"Compendium.morkborg-3p.class-soul-damned-drunkard.j4jZAUI4wbkitPDp",
   	// svampatare
   	"Compendium.morkborg-3p.class-svampatare.g8JnRKWDxp92Bbs1",
   	// the bellfounder
