@@ -1,3 +1,7 @@
+# 1.2.0
+
+- Switch to Mork Borg system's new method of registering classes for creating scvm.
+
 # 1.1.0
 
 - Removed old module.json dependencies stanza.
