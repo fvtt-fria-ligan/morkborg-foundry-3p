@@ -1,7 +1,7 @@
 Hooks.once('init', async function() {
   console.log("Initializing MÖRK BORG 3p module");
   CONFIG.MB.wieldPowerCritOn = 20;
-  CONFIG.MB.wieldPowerCritPack = "morkborg-3p.rolls-eldritch-elevations";
+  CONFIG.MB.wieldPowerCritPack = "morkborg-3p.mork-borg-3p-tables";
   CONFIG.MB.wieldPowerCritTable = "Eldritch Elevations";
 
   // add our additional classes to the scvmfactory generator
