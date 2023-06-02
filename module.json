@@ -6,8 +6,8 @@
   "library": "false",
   "manifestPlusVersion": "1.0.0",
   "compatibility": {
-    "minimum": 10,
-    "verified": 10
+    "minimum": 11,
+    "verified": 11
   },   
   "authors": [
     {
@@ -27,346 +27,38 @@
   "esmodules": ["/scripts/module.js"],
   "packs": [
     {
-      "name": "actors-damned-blade-thrall",
-      "label": "Actors - Damned Blade-Thrall",
+      "name": "mork-borg-3p-actors",
+      "label": "MÖRK BORG 3P (Actors)",
       "system": "morkborg",
-      "path": "./packs/actors-damned-blade-thrall.db",
+      "path": "./packs/mork-borg-3p-actors",
       "type": "Actor"
     },
     {
-      "name": "actors-eat-prey-kill",
-      "label": "Actors - Eat Prey Kill",
+      "name": "mork-borg-3p-items",
+      "label": "MÖRK BORG 3P (Items)",
       "system": "morkborg",
-      "path": "./packs/actors-eat-prey-kill.db",
-      "type": "Actor"
-    },
-    {
-      "name": "actors-fanatic-physician",
-      "label": "Actors - Fanatic Physician",
-      "system": "morkborg",
-      "path": "./packs/actors-fanatic-physician.db",
-      "type": "Actor"
-    },
-    {
-      "name": "actors-the-merchant",
-      "label": "Actors - The Merchant",
-      "system": "morkborg",
-      "path": "./packs/actors-the-merchant.db",
-      "type": "Actor"
-    },
-    {
-      "name": "class-betrayed-phantom",
-      "label": "Class - Betrayed Phantom",
-      "system": "morkborg",
-      "path": "./packs/class-betrayed-phantom.db",
+      "path": "./packs/mork-borg-3p-items",
       "type": "Item"
     },
     {
-      "name": "class-blighted-merman",
-      "label": "Class - Blighted Merman",
+      "name": "mork-borg-3p-journal",
+      "label": "MÖRK BORG 3P (Journal)",
       "system": "morkborg",
-      "path": "./packs/class-blighted-merman.db",
-      "type": "Item"
-    },
-    {
-      "name": "class-catacomb-saint",
-      "label": "Class - Catacomb Saint",
-      "system": "morkborg",
-      "path": "./packs/class-catacomb-saint.db",
-      "type": "Item"
-    },
-    {
-      "name": "class-damned-blade-thrall",
-      "label": "Class - Damned Blade-Thrall",
-      "system": "morkborg",
-      "path": "./packs/class-damned-blade-thrall.db",
-      "type": "Item"
-    },
-    {
-      "name": "class-dead-gods-prophet",
-      "label": "Class - Dead God's Prophet",
-      "system": "morkborg",
-      "path": "./packs/class-dead-gods-prophet.db",
-      "type": "Item"
-    },
-    {
-      "name": "class-divine-hag",
-      "label": "Class - Divine Hag",
-      "system": "morkborg",
-      "path": "./packs/class-divine-hag.db",
-      "type": "Item"
-    },
-    {
-      "name": "class-soul-damned-drunkard",
-      "label": "Class - Soul-Damned Drunkard",
-      "system": "morkborg",
-      "path": "./packs/class-soul-damned-drunkard.db",
-      "type": "Item"
-    },
-    {
-      "name": "class-exalted-gambler",
-      "label": "Class - Exalted Gambler",
-      "system": "morkborg",
-      "path": "./packs/class-exalted-gambler.db",
-      "type": "Item"
-    },
-    {
-      "name": "class-fanatic-physician",
-      "label": "Class - Fanatic Physician",
-      "system": "morkborg",
-      "path": "./packs/class-fanatic-physician.db",
-      "type": "Item"
-    },
-    {
-      "name": "class-fugitive-knight",
-      "label": "Class - Fugitive Knight",
-      "system": "morkborg",
-      "path": "./packs/class-fugitive-knight.db",
-      "type": "Item"
-    },
-    {
-      "name": "class-sin-eater",
-      "label": "Class - Sin Eater",
-      "system": "morkborg",
-      "path": "./packs/class-sin-eater.db",
-      "type": "Item"
-    },
-    {
-      "name": "class-slapping-bastard",
-      "label": "Class - Slapping Bastard",
-      "system": "morkborg",
-      "path": "./packs/class-slapping-bastard.db",
-      "type": "Item"
-    },
-    {
-      "name": "class-svampatare",
-      "label": "Class - Svampätare",
-      "system": "morkborg",
-      "path": "./packs/class-svampatare.db",
-      "type": "Item"
-    },
-    {
-      "name": "class-the-bellfounder",
-      "label": "Class - The Bellfounder",
-      "system": "morkborg",
-      "path": "./packs/class-the-bellfounder.db",
-      "type": "Item"
-    },
-    {
-      "name": "items-more-unheroic-feats",
-      "label": "Items - More Unheroic Feats",
-      "system": "morkborg",
-      "path": "./packs/items-more-unheroic-feats.db",
-      "type": "Item"
-    },
-    {
-      "name": "items-the-merchant",
-      "label": "Items - The Merchant",
-      "system": "morkborg",
-      "path": "./packs/items-the-merchant.db",
-      "type": "Item"
-    },
-    {
-      "name": "items-the-tenebrous-reliquary",
-      "label": "Items - The Tenebrous Reliquary",
-      "system": "morkborg",
-      "path": "./packs/items-the-tenebrous-reliquary.db",
-      "type": "Item"
-    },
-    {
-      "name": "items-unheroic-feats",
-      "label": "Items - Unheroic Feats",
-      "system": "morkborg",
-      "path": "./packs/items-unheroic-feats.db",
-      "type": "Item"
-    },
-    {
-      "name": "journalentries-morkborg-3p",
-      "label": "MÖRK BORG Third Party",
-      "system": "morkborg",
-      "path": "./packs/journalentries-morkborg-3p.db",
+      "path": "./packs/mork-borg-3p-journal",
       "type": "JournalEntry"
     },    
     {
-      "name": "macros-d100-items-and-trinkets",
-      "label": "Macros - d100 Items and Trinkets",
+      "name": "mork-borg-3p-macros",
+      "label": "MÖRK BORG 3P (Macros)",
       "system": "morkborg",
-      "path": "./packs/macros-d100-items-and-trinkets.db",
+      "path": "./packs/mork-borg-3p-macros",
       "type": "Macro"
     },
     {
-      "name": "macros-eat-prey-kill",
-      "label": "Macros - Eat Prey Kill",
+      "name": "mork-borg-3p-tables",
+      "label": "MÖRK BORG 3P (Tables)",
       "system": "morkborg",
-      "path": "./packs/macros-eat-prey-kill.db",
-      "type": "Macro"
-    },
-    {
-      "name": "macros-overland-travel",
-      "label": "Macros - Overland Travel",
-      "system": "morkborg",
-      "path": "./packs/macros-overland-travel.db",
-      "type": "Macro"
-    },
-    {
-      "name": "macros-the-tenebrous-reliquary",
-      "label": "Macros - The Tenebrous Reliquary",
-      "system": "morkborg",
-      "path": "./packs/macros-the-tenebrous-reliquary.db",
-      "type": "Macro"
-    },
-    {
-      "name": "macros-the-merchant",
-      "label": "Macros - The Merchant",
-      "system": "morkborg",
-      "path": "./packs/macros-the-merchant.db",
-      "type": "Macro"
-    },
-    {
-      "name": "macros-soul-damned-drunkard",
-      "label": "Macros - Soul-Damned Drunkard",
-      "system": "morkborg",
-      "path": "./packs/macros-soul-damned-drunkard.db",
-      "type": "Macro"
-    },
-    {
-      "name": "rolls-betrayed-phantom",
-      "label": "Rolls - Betrayed Phantom",
-      "system": "morkborg",
-      "path": "./packs/rolls-betrayed-phantom.db",
-      "type": "RollTable"
-    },
-    {
-      "name": "rolls-blighted-merman",
-      "label": "Rolls - Blighted Merman",
-      "system": "morkborg",
-      "path": "./packs/rolls-blighted-merman.db",
-      "type": "RollTable"
-    },
-    {
-      "name": "rolls-catacomb-saint",
-      "label": "Rolls - Catacomb Saint",
-      "system": "morkborg",
-      "path": "./packs/rolls-catacomb-saint.db",
-      "type": "RollTable"
-    },
-    {
-      "name": "rolls-damned-blade-thrall",
-      "label": "Rolls - Damned Blade-Thrall",
-      "system": "morkborg",
-      "path": "./packs/rolls-damned-blade-thrall.db",
-      "type": "RollTable"
-    },
-    {
-      "name": "rolls-divine-hag",
-      "label": "Rolls - Divine Hag",
-      "system": "morkborg",
-      "path": "./packs/rolls-divine-hag.db",
-      "type": "RollTable"
-    },
-    {
-      "name": "rolls-soul-damned-runkard",
-      "label": "Rolls - Soul-Damned Drunkard",
-      "system": "morkborg",
-      "path": "./packs/rolls-soul-damned-drunkard.db",
-      "type": "RollTable"
-    },
-    {
-      "name": "rolls-exalted-gambler",
-      "label": "Rolls - Exalted Gambler",
-      "system": "morkborg",
-      "path": "./packs/rolls-exalted-gambler.db",
-      "type": "RollTable"
-    },
-    {
-      "name": "rolls-fanatic-physician",
-      "label": "Rolls - Fanatic Physician",
-      "system": "morkborg",
-      "path": "./packs/rolls-fanatic-physician.db",
-      "type": "RollTable"
-    },
-    {
-      "name": "rolls-fugitive-knight",
-      "label": "Rolls - Fugitive Knight",
-      "system": "morkborg",
-      "path": "./packs/rolls-fugitive-knight.db",
-      "type": "RollTable"
-    },
-    {
-      "name": "rolls-sin-eater",
-      "label": "Rolls - Sin Eater",
-      "system": "morkborg",
-      "path": "./packs/rolls-sin-eater.db",
-      "type": "RollTable"
-    },
-    {
-      "name": "rolls-slapping-bastard",
-      "label": "Rolls - Slapping Bastard",
-      "system": "morkborg",
-      "path": "./packs/rolls-slapping-bastard.db",
-      "type": "RollTable"
-    },
-    {
-      "name": "rolls-svampatare",
-      "label": "Rolls - Svampätare",
-      "system": "morkborg",
-      "path": "./packs/rolls-svampatare.db",
-      "type": "RollTable"
-    },
-    {
-      "name": "rolls-the-bellfounder",
-      "label": "Rolls - The Bellfounder",
-      "system": "morkborg",
-      "path": "./packs/rolls-the-bellfounder.db",
-      "type": "RollTable"
-    },
-    {
-      "name": "rolls-eat-prey-kill",
-      "label": "Rolls - Eat Prey Kill",
-      "system": "morkborg",
-      "path": "./packs/rolls-eat-prey-kill.db",
-      "type": "RollTable"
-    },
-    {
-      "name": "rolls-d100-items-and-trinkets",
-      "label": "Rolls - d100 Items and Trinkets",
-      "system": "morkborg",
-      "path": "./packs/rolls-d100-items-and-trinkets.db",
-      "type": "RollTable"
-    },
-    {
-      "name": "rolls-eldritch-elevations",
-      "label": "Rolls - Eldritch Elevations",
-      "system": "morkborg",
-      "path": "./packs/rolls-eldritch-elevations.db",
-      "type": "RollTable"
-    },
-    {
-      "name": "rolls-overland-travel",
-      "label": "Rolls - Overland Travel",
-      "system": "morkborg",
-      "path": "./packs/rolls-overland-travel.db",
-      "type": "RollTable"
-    },
-    {
-      "name": "rolls-the-merchant",
-      "label": "Rolls - The Merchant",
-      "system": "morkborg",
-      "path": "./packs/rolls-the-merchant.db",
-      "type": "RollTable"
-    },
-    {
-      "name": "rolls-the-tenebrous-reliquary",
-      "label": "Rolls - The Tenebrous Reliquary",
-      "system": "morkborg",
-      "path": "./packs/rolls-the-tenebrous-reliquary.db",
-      "type": "RollTable"
-    },
-    {
-      "name": "rolls-unheroic-feats-and-more",
-      "label": "Rolls - Unheroic Feats and more",
-      "system": "morkborg",
-      "path": "./packs/rolls-unheroic-feats-and-more.db",
+      "path": "./packs/mork-borg-3p-tables",
       "type": "RollTable"
     }
   ],
