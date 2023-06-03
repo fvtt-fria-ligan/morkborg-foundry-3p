@@ -1,3 +1,8 @@
+# 2.0.0
+
+- Foundry v11 compatibility.
+- Reorganized compendiums using v11's compendium folders.
+
 # 1.2.0
 
 - Added Soul-Damned Drunkard class (by SmokeRaven).
