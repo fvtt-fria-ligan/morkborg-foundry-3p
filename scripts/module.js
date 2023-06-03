@@ -7,30 +7,30 @@ Hooks.once('init', async function() {
   // add our additional classes to the scvmfactory generator
   CONFIG.MB.scvmFactory.classUuids.push(
   	// betrayed phantom
-  	"Compendium.morkborg-3p.class-betrayed-phantom.tZo8QZBZrH9fBeNI",
+  	"Compendium.morkborg-3p.mork-borg-3p-items.tZo8QZBZrH9fBeNI",
   	// blighted merman
-  	"Compendium.morkborg-3p.class-blighted-merman.G9NM1nMI7cwa4DE2",
+  	"Compendium.morkborg-3p.mork-borg-3p-items.G9NM1nMI7cwa4DE2",
   	// catacomb saint
-  	"Compendium.morkborg-3p.class-catacomb-saint.ktYfH0f5gY4cCHMl",
+  	"Compendium.morkborg-3p.mork-borg-3p-items.ktYfH0f5gY4cCHMl",
   	// damned blade thrall
-  	"Compendium.morkborg-3p.class-damned-blade-thrall.jpmK3KOXx4i3WLAA",
+  	"Compendium.morkborg-3p.mork-borg-3p-items.jpmK3KOXx4i3WLAA",
   	// divine hag
-  	"Compendium.morkborg-3p.class-divine-hag.tca5SWJ2IaTmiDHs",
+  	"Compendium.morkborg-3p.mork-borg-3p-items.tca5SWJ2IaTmiDHs",
   	// exalted gambler
-  	"Compendium.morkborg-3p.class-exalted-gambler.wa4yxdTBpSVtzwVA",
+  	"Compendium.morkborg-3p.mork-borg-3p-items.wa4yxdTBpSVtzwVA",
   	// fanatic physician
-  	"Compendium.morkborg-3p.class-fanatic-physician.ITWQGGF3AFUGcAMr",
+  	"Compendium.morkborg-3p.mork-borg-3p-items.ITWQGGF3AFUGcAMr",
   	// fugitive knight
-  	"Compendium.morkborg-3p.class-fugitive-knight.Z9qYuZkoa0txg1TX",
+  	"Compendium.morkborg-3p.mork-borg-3p-items.Z9qYuZkoa0txg1TX",
   	// sin eater
-  	"Compendium.morkborg-3p.class-sin-eater.GhuFnPrfEgzS0NjU",
+  	"Compendium.morkborg-3p.mork-borg-3p-items.GhuFnPrfEgzS0NjU",
   	// slapping bastard
-  	"Compendium.morkborg-3p.class-slapping-bastard.qPSUBgeMWRkCtQFq",
+  	"Compendium.morkborg-3p.mork-borg-3p-items.qPSUBgeMWRkCtQFq",
   	// soul-damned drunkard
-	  "Compendium.morkborg-3p.class-soul-damned-drunkard.j4jZAUI4wbkitPDp",
+	  "Compendium.morkborg-3p.mork-borg-3p-items.j4jZAUI4wbkitPDp",
   	// svampatare
-  	"Compendium.morkborg-3p.class-svampatare.g8JnRKWDxp92Bbs1",
+  	"Compendium.morkborg-3p.mork-borg-3p-items.g8JnRKWDxp92Bbs1",
   	// the bellfounder
-  	"Compendium.morkborg-3p.class-the-bellfounder.JNvP1NLKQ577RBQw",
+  	"Compendium.morkborg-3p.mork-borg-3p-items.JNvP1NLKQ577RBQw",
   );
 });
