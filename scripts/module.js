@@ -24,6 +24,8 @@ Hooks.once('init', async function() {
   	"Compendium.morkborg-3p.mork-borg-3p-items.Z9qYuZkoa0txg1TX",
   	// sin eater
   	"Compendium.morkborg-3p.mork-borg-3p-items.GhuFnPrfEgzS0NjU",
+    // Sinful sailor
+    "Compendium.morkborg-3p.mork-borg-3p-items.2ciG5JtfVXXAI3vA",
   	// slapping bastard
   	"Compendium.morkborg-3p.mork-borg-3p-items.qPSUBgeMWRkCtQFq",
   	// soul-damned drunkard

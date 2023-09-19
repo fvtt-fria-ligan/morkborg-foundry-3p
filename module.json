@@ -27,6 +27,20 @@
   "esmodules": ["/scripts/module.js"],
   "packs": [
     {
+      "name": "class-blood-knight",
+      "label": "Class - Blood Knight",
+      "system": "morkborg",
+      "path": "./packs/class-blood-knight.db",
+      "type": "Item"
+    },    
+    {
+      "name": "rolls-blood-knight",
+      "label": "Rolls - Blood Knight",
+      "system": "morkborg",
+      "path": "./packs/rolls-blood-knight.db",
+      "type": "RollTable"
+    },     
+    {
       "name": "mork-borg-3p-actors",
       "label": "MÖRK BORG 3P (Actors)",
       "system": "morkborg",

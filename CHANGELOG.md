@@ -1,3 +1,7 @@
+# 2.1.0
+
+- Add Sinful Sailor class by Michael Mars.
+
 # 2.0.0
 
 - Foundry v11 compatibility.

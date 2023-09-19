@@ -26,6 +26,7 @@ morkborg-foundry-3p is an independent production by community contributors, and 
   * Fanatic Physician by Maldo.rxr.
   * [Fugitive Knight](https://neonon.itch.io/mork-borg-fugitive-knight) by [Michal Gotkowski](https://neonon.itch.io/).
   * [Sin Eater](https://www.drivethrurpg.com/product/363116/We-Are-What-We-Are) by [Gregorius21778](https://gregorius21778.wordpress.com/).
+  * [Sinful Sailor](https://www.drivethrurpg.com/product/348673/Within-A-Mile-of-Home-A-Zine-for-Mork-Borg) by [Michael Mars](https://www.drivethrurpg.com/browse/pub/18364/Michael-Mars).
   * [Slapping Bastard](https://anadversary.itch.io/slapping-bastard) by [Bracken MacLeod](https://anadversary.itch.io/).
   * [Soul-Damned Drunkard](https://www.drivethrurpg.com/product/423719/Malum-Mortis-A-Mork-Borg-Metaplot) by [SmokeRaven](https://www.smokeraven.com).
   * [Svampätare](https://reverendunclebastard.itch.io/svamp) by [ReverendUncleBastard](https://itch.io/profile/reverendunclebastard).
