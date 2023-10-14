@@ -1,3 +1,7 @@
+# 2.2.0
+
+- Add Blood Knight class by OE.
+
 # 2.1.0
 
 - Add Sinful Sailor class by Michael Mars.

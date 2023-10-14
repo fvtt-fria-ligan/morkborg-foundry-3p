@@ -10,6 +10,8 @@ Hooks.once('init', async function() {
   	"Compendium.morkborg-3p.mork-borg-3p-items.tZo8QZBZrH9fBeNI",
   	// blighted merman
   	"Compendium.morkborg-3p.mork-borg-3p-items.G9NM1nMI7cwa4DE2",
+    // blood knight
+    "Compendium.morkborg-3p.mork-borg-3p-items.Item.Yhnqcnwb7DzHx2ov",
   	// catacomb saint
   	"Compendium.morkborg-3p.mork-borg-3p-items.ktYfH0f5gY4cCHMl",
   	// damned blade thrall
