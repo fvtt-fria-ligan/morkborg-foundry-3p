@@ -19,6 +19,7 @@ morkborg-foundry-3p is an independent production by community contributors, and 
 ### Classes
   * [Betrayed Phantom](https://theeldritchtomb.itch.io/betrayed-phantom) by [Sasha De'ath](https://theeldritchtomb.itch.io/).
   * [Blighted Merman](https://chalkdown.itch.io/blighted-merman) by [Chalkdown & Djuun](https://chalkdown.itch.io/).
+  * Blood Knight by OE.
   * [Catacomb Saint](https://imcclung.itch.io/catacomb-saint) by [Makooti](https://imcclung.itch.io/).
   * [Damned Blade-Thrall](https://nthdegree.itch.io/damned-blade-thrall-a-class-for-mork-borg) by Nathan Harrison / [Orbis Tertius Press](https://orbis-tertius.org/).
   * [Divine Hag](https://www.drivethrurpg.com/product/349184/An-Cailleach-An-Irish-Folklore-Class-for-Mork-Borg) by [Michael Mars](https://www.drivethrurpg.com/browse/pub/18364/Michael-Mars).
