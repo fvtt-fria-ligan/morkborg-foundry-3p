@@ -22,10 +22,13 @@ morkborg-foundry-3p is an independent production by community contributors, and 
   * [Blood Knight](https://ecarabano.itch.io/blood-knight) by [OE](https://theommisah.itch.io//).
   * [Catacomb Saint](https://imcclung.itch.io/catacomb-saint) by [Makooti](https://imcclung.itch.io/).
   * [Damned Blade-Thrall](https://nthdegree.itch.io/damned-blade-thrall-a-class-for-mork-borg) by Nathan Harrison / [Orbis Tertius Press](https://orbis-tertius.org/).
+  * [Death Hunter](https://rynoch.itch.io/grave-matters) by [OE](https://theommisah.itch.io//).
   * [Divine Hag](https://www.drivethrurpg.com/product/349184/An-Cailleach-An-Irish-Folklore-Class-for-Mork-Borg) by [Michael Mars](https://www.drivethrurpg.com/browse/pub/18364/Michael-Mars).
   * [Exalted Gambler](https://www.drivethrurpg.com/product/332162/Exalted-Gambler-A-class-for-MORK-BORG) by [Maciej Sznurkowski](https://www.drivethrurpg.com/browse/pub/17361/Sznurek).
   * Fanatic Physician by Maldo.rxr.
   * [Fugitive Knight](https://neonon.itch.io/mork-borg-fugitive-knight) by [Michal Gotkowski](https://neonon.itch.io/).
+  * [Guilt Bearer](https://rynoch.itch.io/grave-matters) by [OE](https://theommisah.itch.io//). 
+  * [Rotting Necromancer](https://rynoch.itch.io/grave-matters) by [OE](https://theommisah.itch.io//). 
   * [Sin Eater](https://www.drivethrurpg.com/product/363116/We-Are-What-We-Are) by [Gregorius21778](https://gregorius21778.wordpress.com/).
   * [Sinful Sailor](https://www.drivethrurpg.com/product/348673/Within-A-Mile-of-Home-A-Zine-for-Mork-Borg) by [Michael Mars](https://www.drivethrurpg.com/browse/pub/18364/Michael-Mars).
   * [Slapping Bastard](https://anadversary.itch.io/slapping-bastard) by [Bracken MacLeod](https://anadversary.itch.io/).
