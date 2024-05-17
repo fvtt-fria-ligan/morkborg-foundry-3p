@@ -1,3 +1,8 @@
+# 2.2.1
+
+- Added Rynoch's Grave Matter's Class's By OE.
+
+
 # 2.2.0
 
 - Add Blood Knight class by OE.
