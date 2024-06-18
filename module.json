@@ -32,9 +32,9 @@
     {
       "name": "mork-borg-3p-actors",
       "label": "MÖRK BORG 3P (Actors)",
+      "system": "morkborg",
       "path": "packs/mork-borg-3p-actors",
       "type": "Actor",
-      "system": "morkborg",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -44,9 +44,9 @@
     {
       "name": "mork-borg-3p-items",
       "label": "MÖRK BORG 3P (Items)",
+      "system": "morkborg",
       "path": "packs/mork-borg-3p-items",
       "type": "Item",
-      "system": "morkborg",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -56,9 +56,9 @@
     {
       "name": "mork-borg-3p-journal",
       "label": "MÖRK BORG 3P (Journal)",
+      "system": "morkborg",
       "path": "packs/mork-borg-3p-journal",
       "type": "JournalEntry",
-      "system": "morkborg",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -68,9 +68,9 @@
     {
       "name": "mork-borg-3p-macros",
       "label": "MÖRK BORG 3P (Macros)",
+      "system": "morkborg",
       "path": "packs/mork-borg-3p-macros",
       "type": "Macro",
-      "system": "morkborg",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
@@ -80,9 +80,9 @@
     {
       "name": "mork-borg-3p-tables",
       "label": "MÖRK BORG 3P (Tables)",
+      "system": "morkborg",
       "path": "packs/mork-borg-3p-tables",
       "type": "RollTable",
-      "system": "morkborg",
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
