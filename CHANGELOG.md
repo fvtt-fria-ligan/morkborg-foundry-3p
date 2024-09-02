@@ -1,3 +1,7 @@
+# 2.3.0
+
+-  Add Rynoch's 3p classes Death Hunter, Guilt Bearer, and Rotting Necromancer [by OE].
+   
 # 2.2.0
 
 - Add Blood Knight class by OE.
