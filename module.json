@@ -2,76 +2,109 @@
   "id": "morkborg-3p",
   "title": "MÖRK BORG Third-Party Content",
   "description": "Third-party content for the MÖRK BORG system.",
-  "version": "This is auto replaced",
-  "library": "false",
-  "manifestPlusVersion": "1.0.0",
+  "version": "2.2.0",
   "compatibility": {
-    "minimum": 11,
-    "verified": 11
-  },   
+    "minimum": "11",
+    "verified": "11.300"
+  },
   "authors": [
     {
-      "name": "mcglintlock"
-    }    
-  ],  
+      "name": "mcglintlock",
+      "flags": {}
+    }
+  ],
   "relationships": {
-    "systems": [{
-      "id": "morkborg",
-      "type": "system",
-      "manifest": "https://github.com/fvtt-fria-ligan/morkborg-foundry-vtt/releases/download/2.0.3/system.json",
-      "compatibility": {
-        "verified": "2"
+    "systems": [
+      {
+        "id": "morkborg",
+        "type": "system",
+        "manifest": "https://github.com/fvtt-fria-ligan/morkborg-foundry-vtt/releases/download/2.0.3/system.json",
+        "compatibility": {
+          "verified": "2"
+        }
       }
-    }]
-  },   
-  "esmodules": ["/scripts/module.js"],
+    ]
+  },
+  "esmodules": [
+    "/scripts/module.js"
+  ],
   "packs": [
     {
       "name": "mork-borg-3p-actors",
       "label": "MÖRK BORG 3P (Actors)",
       "system": "morkborg",
-      "path": "./packs/mork-borg-3p-actors",
-      "type": "Actor"
+      "path": "packs/mork-borg-3p-actors",
+      "type": "Actor",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
     },
     {
       "name": "mork-borg-3p-items",
       "label": "MÖRK BORG 3P (Items)",
       "system": "morkborg",
-      "path": "./packs/mork-borg-3p-items",
-      "type": "Item"
+      "path": "packs/mork-borg-3p-items",
+      "type": "Item",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
     },
     {
       "name": "mork-borg-3p-journal",
       "label": "MÖRK BORG 3P (Journal)",
       "system": "morkborg",
-      "path": "./packs/mork-borg-3p-journal",
-      "type": "JournalEntry"
-    },    
+      "path": "packs/mork-borg-3p-journal",
+      "type": "JournalEntry",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
     {
       "name": "mork-borg-3p-macros",
       "label": "MÖRK BORG 3P (Macros)",
       "system": "morkborg",
-      "path": "./packs/mork-borg-3p-macros",
-      "type": "Macro"
+      "path": "packs/mork-borg-3p-macros",
+      "type": "Macro",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
     },
     {
       "name": "mork-borg-3p-tables",
       "label": "MÖRK BORG 3P (Tables)",
       "system": "morkborg",
-      "path": "./packs/mork-borg-3p-tables",
-      "type": "RollTable"
+      "path": "packs/mork-borg-3p-tables",
+      "type": "RollTable",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
     }
   ],
-  "scripts": ["/scripts/lib/lib.js"],
-  "styles": ["/styles/module.css"],
+  "scripts": [
+    "/scripts/lib/lib.js"
+  ],
+  "styles": [
+    "/styles/module.css"
+  ],
   "languages": [
     {
       "lang": "en",
       "name": "English",
-      "path": "languages/en.json"
+      "path": "languages/en.json",
+      "flags": {}
     }
   ],
-  "url": "This is auto replaced",
-  "manifest": "This is auto replaced",
-  "download": "This is auto replaced"
+  "url": "https://github.com/fvtt-fria-ligan/morkborg-foundry-3p",
+  "manifest": "https://github.com/fvtt-fria-ligan/morkborg-foundry-3p/releases/latest/download/module.json",
+  "download": "https://github.com/fvtt-fria-ligan/morkborg-foundry-3p/releases/download/2.2.0/module.zip"
 }
